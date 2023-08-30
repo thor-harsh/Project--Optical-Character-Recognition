@@ -1,13 +1,13 @@
 # Project--Optical-Character-Recognition
 <table>
-  <b>
+ 
 OCR engines used-
-Pytesseract
-PaddleOCR
-EasyOCR
-Img2table
+Pytesseract,
+PaddleOCR,
+EasyOCR,
+Img2table,and
 Img2table+PaddleOCR
-  </b>
+
 </table>
 
 **This model comes very handy if a very complex tabular data is given to us and we want to extract metadata from it.It can scan the whole table easily and can give you the result in excel sheet or word file in whatever format you wnat to use in a fraction
